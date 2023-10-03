@@ -1,0 +1,232 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif,Helvetica Neue ;
+}
+.logo{
+    width: 89%;
+    padding-top: 14px;
+}
+.facebook{
+    font-size: 41px;
+    font-family: Arial, Helvetica, sans-serif,Helvetica Neue;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    margin-left: 173px;
+    float: left;
+    width: 50%;
+}
+.login{
+    float: left;
+
+}
+.text{
+    color: white;
+    font-size: 11px;
+}
+#forgot{
+    font-size: 11px;
+    color: #9cb4d8;
+    text-decoration: none;
+    padding-left: 6px;
+}
+.LoginB{
+    background-color: #4267b2;
+    color: white;
+    height: 20px;
+    border-color: #0a0a46;
+    border-width: 1px;
+    cursor: pointer;
+   font-size: 11px;
+    font-weight: bold;
+
+}
+.LoginB:hover{
+    background-color: #0a0a46;
+}
+.pagebody{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 638px;
+}
+.image{
+    width: 600px;
+    margin-left: 145px;
+    width: 499px;
+    margin-top: 3px;
+
+}
+.LeftSection{
+    float: left;
+    width: 54%;
+}
+.RightSection{
+float: left;
+}
+#text1{
+    font-size: 41px;
+    font-weight: bold;
+    color: #5a5656;
+    margin-left: -3px;
+}
+#t1{
+    padding-top: 31px;
+    padding-bottom: 12px;
+}
+#t2{
+     padding-bottom: 24px;
+
+}
+.it0{
+   
+    height: 24px;
+    border-color: revert;
+    border-color: #b8b8b8;
+    border-width: 1px;
+    border-radius: 3px;
+
+}
+.it1{
+    width: 338px;
+    height: 24px;
+    border-color: revert;
+    border-color: #b8b8b8;
+    border-width: 1px;
+    border-radius: 3px;
+
+}
+#data{
+    margin-left: 165px;
+    font-size: 15px;
+    color: #3b5998;
+    font-weight: bold;
+    margin-top: 44px;
+    line-height: 25px;
+}
+.it0:hover{
+    border-color: #7d7878
+    
+}
+.it1:hover{
+    border-color: #7d7878
+    
+}
+.Birthday{
+    font-size: 13px;
+    color: #9a9aaf;
+    font-weight: bold;
+}
+.para2{
+    color: #9a9aaf;
+    font-size: 13px;
+}
+#ques1{
+    border-radius: 50%;
+    border-radius: 50%;
+    width: 17px;
+    height: 17px;
+    font-size: 10px;
+    padding: 3px;
+    margin-left: -167px;
+    margin-bottom: 21px;
+    background-color: grey;
+    color: white;
+    border-color: inherit;
+}
+#ques2{
+    border-radius: 50%;
+    border-radius: 50%;
+    width: 17px;
+    height: 17px;
+    font-size: 10px;
+    padding: 3px;
+    margin-left: 18px;
+    margin-bottom: 1px;
+    background-color: grey;
+    color: white;
+    border-color: inherit;
+}
+.Signupbtn{
+    background-image: linear-gradient(to bottom, #5cba66, #238d0d, #519529, #6bac1d, #759925);
+    border-radius: 5px;
+    width: 127px;
+    height: 30px;
+    color: white;
+    font-family: unset;
+    font-weight: bold;
+    border-color: whitesmoke;
+}
+.Signupbtn:hover{
+    background-image: linear-gradient(to bottom, #307337, #1c7809, #4b8529, #538715, #50661f);
+}
+.termslink{
+    color: #555597;
+    text-decoration: none;
+    font-size: 13px;
+}
+.selectbox{
+    border-radius: 3px;
+    border: ridge;
+}
+.footertable{
+    position: absolute;
+    left: 123px;
+    margin-top: -45px;
+    width: 708px;
+
+}
+.footer{
+    width: 100%;
+    height: 139px;
+    background-color: rgb(255, 255, 255);
+}
+#line{
+    color: rgb(82, 82, 82);
+    position: inherit;
+    margin-top: 112px;
+    width: 1225px;
+}
+.footertable2{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 121px;
+    width: 1260px;
+    line-height: 28px;
+    font-size: 14px;
+}
+.footertext{
+    font-size: 13px;
+    color: #5252c7;
+}
+.links{
+    text-decoration: none;
+    font-size: 14px;
+    color: #5252c7;
+}
+.links:hover{
+    color: #555597;
+}
+#pagelink{
+    position: absolute;
+    margin-top: 32px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #626262;
+}
+#linkpage{
+    text-decoration: none;
+    color: #555597;
+    font-weight: 600;
+}
+.labellast{
+    position: absolute;
+    margin-top: 88px;
+    left: 123px;
+    font-size: 10px;
+    color: #88889b;
+}
